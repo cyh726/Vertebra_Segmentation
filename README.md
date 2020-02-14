@@ -1,5 +1,15 @@
 # Vertebra_Segmentation
 * **environment:** python 3.6.9 & tensorflow1.15
+## Requirements
+You may install the requirements by running the following command
+```
+sudo pip3 install -r requirements.txt
+```
+## Execute
+You may run the program by running the following command
+```
+python image_processing.py
+```
 ## GUI Function
 1.	Read an input image and its ground truth 
 2.	Show predict results 
